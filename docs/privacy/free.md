@@ -43,7 +43,7 @@ permalink: /privacy/free/
 - **앱 상호작용**: 앱 실행, 탭, 동영상 시청 등
 - **진단 정보**: 앱 및 SDK의 성능(실행 시간, 응답 없음 비율, 에너지 사용 등)
 
-이 정보는 **광고, 분석, 사기 방지** 목적으로 쓰이며 Google과 공유됩니다. SDK가 수집하는 모든 사용자 데이터는 **TLS로 암호화되어 전송**됩니다. (출처: [Google Play data disclosure | Unity | Google for Developers](https://developers.google.com/admob/unity/privacy/play-data-disclosure))
+이 정보는 **광고, 분석, 사기 방지** 목적으로 쓰이며 Google과 공유됩니다. SDK가 수집하는 모든 사용자 데이터는 **TLS로 암호화되어 전송**됩니다. (출처: [Google 개발자 문서 — Google Play 데이터 공개(Unity)](https://developers.google.com/admob/unity/privacy/play-data-disclosure))
 
 이 정보를 개발자가 받아 보관하거나 열람하지는 않습니다. 개발자는 AdMob 계정을 통해 광고 노출·수익 등 **집계된 통계**만 볼 수 있습니다.
 
